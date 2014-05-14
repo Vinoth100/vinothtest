@@ -1,7 +1,9 @@
+package com.example;
+
 public class Hello {
 
 	public static void main(String[] args) {
-	  System.out.println('hi vinoth1');
+	  System.out.println("hi vinoth1");
   }
   
 }
